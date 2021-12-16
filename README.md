@@ -1,2 +1,6 @@
 # CS-250
 Andrei Kourouchin
+
+  I think one of the best ways to interpret user needs is to put yourself into the shoes of the user and think about exactly what functionality you might want out of a program. Following that, you can start to put together your game plan for how you are going to develop the program. Creating user stories is just a way of thinking out the steps a user might take in order to achiveve a specific goal.
+  When I am developing a program, I tend to try to break it up into logical parts, that eventually become functions. I believe this would be considered an agile approach. Rather than working on getting everything ready at once, I find small sections, get them working, then get started on other ones. I think an agile approach that I'd like to incorporate is to use something like JIRA where I have boards, workflows and a roadmap that help me visualize exactly what I need to be working on. However I believe that it would be easier to do this across a bigger project. 
+  I think being a good team member in software development has a few facets, one of which is being available and being able to communicate effectively. Another thing is that a good team member leaves behind good comments and good secure code. 
